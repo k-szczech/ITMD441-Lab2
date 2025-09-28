@@ -61,7 +61,9 @@
 /* Grid Part 1 */
 
 #grid-section1 .grid {
-
+	display:grid;
+	grid: 100px 100px / auto auto auto auto;
+	gap: 20px;
 }
 
 /* end Grid Part 1 */
