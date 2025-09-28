@@ -44,6 +44,7 @@
 #flex-section3 .box {
 	display:flex;
 	justify-content:center;
+	align-items:center;
 }
 
 #flex-section3 .tags ul {
